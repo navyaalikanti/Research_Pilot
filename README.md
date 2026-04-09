@@ -72,7 +72,7 @@ Authentication:
 
 ```
 
-
+```
 ## Why Clarion
 
 Research can be overwhelming without structure and guidance. Clarion simplifies the entire research lifecycle by combining paper discovery, AI assistance, drafting tools, and collaboration features into one intelligent system.
