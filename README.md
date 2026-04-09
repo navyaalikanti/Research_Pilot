@@ -70,45 +70,6 @@ AI and APIs:
 Authentication:
 - JWT-based authentication
 
-
-## Installation and Setup
-
-
-### 1. Clone the Repository
-```bash
-git clone https://github.com/Neshmitha/Clarion-AI-Research-Pilot.git
-cd Clarion-AI-Research-Pilot
-```
-
-
-### 2. Configure Environment Variables
-
-Create a .env file inside the server folder and add the following:
-```bash
-PORT=5001
-MONGO_URI=your_mongodb_connection_string
-JWT_SECRET=your_jwt_secret
-GROQ_API_KEY=your_groq_api_key
-GEMINI_API_KEY=your_gemini_api_key
-LLAMA_CLOUD_API_KEY=your_llama_key
-```
-
-Ensure all environment variables are properly configured before running the application.
-
-
-### 3. Run Backend
-```bash
-cd server
-npm install
-node index.js
-```
-
-
-### 4. Run Frontend
-```bash
-cd client
-npm install
-npm run dev
 ```
 
 
